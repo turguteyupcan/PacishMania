@@ -4,6 +4,8 @@ This game is different version of Pacman game made with Construct 3 game engine.
 
 The game is played with one player. The goal is get the exit door's key and escape from the maze. To do this, player must get the coins by colors and open the same colored doors.
 
+**Directly Play The Game Here:** https://turguteyupcan.itch.io/tower-defence
+#
 **How to Open Source File and Reach Codes (Events)**
 
 * Download the .c3p file.
